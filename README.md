@@ -35,11 +35,5 @@ Certain product sub-categories generate negative profit. Discounts strongly affe
 # Visualizations
 Includes: Sales trend line charts. Category bar charts. Heatmaps. Feature importance plots
 
-# How to Run
-git clone https://github.com/your-username/superstore-analysis.git -> cd superstore-analysis -> pip install -r requirements.txt. jupyter notebook
-
-# Requirements
-pandas, numpy, matplotlib, seaborn, scikit-learn
-
 # Skills Demonstrated
 Data cleaning. Exploratory data analysis. Data visualization. Machine learning (regression). Feature engineering
