@@ -6,7 +6,6 @@
 
 """Importing Libraries"""
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
@@ -93,3 +92,5 @@ importance = pd.Series(model.feature_importances_, index=X.columns)
 importance.plot(kind='bar')
 plt.title("Feature Importance")
 plt.show()
+
+#df.to_csv("Superstore.csv", index=False)
